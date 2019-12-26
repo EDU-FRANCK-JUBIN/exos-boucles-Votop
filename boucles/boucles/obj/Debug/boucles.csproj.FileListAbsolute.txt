@@ -1,0 +1,6 @@
+C:\Users\vincc\Documents\Developpement\cours\exos-boucles-Votop\boucles\boucles\bin\Debug\boucles.exe.config
+C:\Users\vincc\Documents\Developpement\cours\exos-boucles-Votop\boucles\boucles\bin\Debug\boucles.exe
+C:\Users\vincc\Documents\Developpement\cours\exos-boucles-Votop\boucles\boucles\bin\Debug\boucles.pdb
+C:\Users\vincc\Documents\Developpement\cours\exos-boucles-Votop\boucles\boucles\obj\Debug\boucles.csprojAssemblyReference.cache
+C:\Users\vincc\Documents\Developpement\cours\exos-boucles-Votop\boucles\boucles\obj\Debug\boucles.exe
+C:\Users\vincc\Documents\Developpement\cours\exos-boucles-Votop\boucles\boucles\obj\Debug\boucles.pdb
